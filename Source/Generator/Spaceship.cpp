@@ -15,6 +15,8 @@ Spaceship::Spaceship()
 
 void Spaceship::generateSpaceship(bool horizontal)
 {
+    // Credit: https://www.reddit.com/r/proceduralgeneration/comments/6daqjb/really_pleased_with_how_my_toolkit_builds/
+    
 	// Generate the hull
 	designHull(horizontal);
 

@@ -1,4 +1,4 @@
-# Procedural-Map-Geneartor
+# Procedural-Map-Generator
 A procedural map generator for roguelike games.  
 
 <img src="./Screenshots/Forest and a river.png" width="600">

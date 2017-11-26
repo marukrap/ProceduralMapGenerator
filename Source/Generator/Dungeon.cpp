@@ -54,8 +54,8 @@ void ClassicDungeon::onGenerate()
 
 	for (int i = 0; i < 15; ++i)
 	{
-		int x = rng->getInt(1, width - 1);
-		int y = rng->getInt(1, height - 1);
+		int x = rng->getInt(1, width - 2);
+		int y = rng->getInt(1, height - 2);
 
 		points.emplace_back(x, y);
 	}

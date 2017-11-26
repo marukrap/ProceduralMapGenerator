@@ -63,15 +63,9 @@ void ClassicDungeon::onGenerate()
 	for (int i = 0; i < 5; ++i)
 		relaxation(points);
 
-	for (auto& point : points)
-	{
-		point.x = odd(point.x);
-		point.y = odd(point.y);
-	}
-
 	for (auto it = points.begin(); it != points.end(); )
 	{
-		auto point = *it;
+		auto& point = *it;
 
 		Room room;
 		room.width = odd(rng->rollDice(4, 3));

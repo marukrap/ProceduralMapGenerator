@@ -139,7 +139,7 @@ void MazyForest::onGenerate()
 
 void ForestAndLakes::onGenerate()
 {
-	setName(L"Foerst and lakes");
+	setName(L"Forest and lakes");
 
 	generateForest(9, 5, 3);
 	smoothMap(35);

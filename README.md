@@ -1,10 +1,10 @@
 # Procedural-Map-Generator
 A procedural map generator for roguelike games.  
 
-<img src="./Screenshots/Forest and a river.png" width="600">
-<img src="./Screenshots/Caves and mazes.png" width="600">
-<img src="./Screenshots/Classic dungeon.png" width="600">
-<img src="./Screenshots/Spaceship A.png" width="600">
+<img src="./Screenshots/Forest and a river.png" width="800">
+<img src="./Screenshots/Caves and mazes.png" width="800">
+<img src="./Screenshots/Classic dungeon.png" width="800">
+<img src="./Screenshots/Spaceship A.png" width="800">
 
 Since the tileset is copyrighted content, I excluded it.
 

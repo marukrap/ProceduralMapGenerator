@@ -1,4 +1,4 @@
-# Procedural-Map-Generator
+# Procedural Map Generator
 A procedural map generator for roguelike games.
 
 Since the tileset is copyrighted content, it is excluded.

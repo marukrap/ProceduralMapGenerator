@@ -1,6 +1,8 @@
 # Procedural Map Generator
 A procedural map generator for roguelike games.
 
+Late submission for Github Game Off 2017.
+
 Since the tileset is copyrighted content, it is excluded.
 
 ## Screenshots

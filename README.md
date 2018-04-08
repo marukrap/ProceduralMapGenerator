@@ -15,4 +15,4 @@ Since the tileset is copyrighted content, it is excluded.
 * https://underww.itch.io/procedural-map-generator
 
 ## Contact
-* Discord: https://discord.gg/dggjPVB
+* Discord: https://discord.gg/RhH3vyn

@@ -13,6 +13,3 @@ Since the tileset is copyrighted content, it is excluded.
 
 ## Download (Windows)
 * https://underww.itch.io/procedural-map-generator
-
-## Contact
-* Discord: https://discord.gg/RhH3vyn
